@@ -33,6 +33,7 @@ const App = () => {
           return <Item key={item.id} item={item}></Item>;
         })}
       </section>
+      <footer>&copy;Design and Coded by gawhar salman</footer>
     </>
   );
 };
